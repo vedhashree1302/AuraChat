@@ -1,16 +1,22 @@
-# aniflix
+# Aniflix Chat
 
-A new Flutter project.
+A Flutter-based messaging app with a clean dark-themed interface.  
+It lets users browse contacts, start new conversations, send text or image messages, and view replies in a modern chat layout.  
+The app integrates Firebase for authentication, storage, and real-time messaging.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- 🔹 Dark theme with polished UI
+- 🔹 Contact list with avatars and status
+- 🔹 Real-time chat powered by Firebase Firestore
+- 🔹 Send text and image messages
+- 🔹 Image picker (camera & gallery)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+- **Flutter** for cross-platform UI
+- **Firebase Auth** for user authentication
+- **Firebase Firestore** for real-time chat storage
+- **Image Picker** for media selection
