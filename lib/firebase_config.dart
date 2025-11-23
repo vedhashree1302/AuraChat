@@ -18,7 +18,7 @@ const String appPathPrefix = 'artifacts/aniflix/public/data';
 // IMPORTANT: Replace the empty string with your actual Gemini API Key
 // Note: In a real production app, this key should be stored securely,
 // not hardcoded in the codebase.
-const String geminiApiKey = "AIzaSyDV2zyIwjm1ozBKZMYfFD4dfQf6HcnukBk";
+const String geminiApiKey = "gemini_api_key";
 
 // --- Utility function to generate a consistent chat ID between two users ---
 String generateChatId(String user1Id, String user2Id) {
